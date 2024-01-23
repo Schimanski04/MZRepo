@@ -1,4 +1,4 @@
-# SW 17 – Prostředky pro návrh webových aplikací I
+# SW 17a – Prostředky pro návrh webových aplikací I
 
 ## HTML (Hypertext Markup Language)
 
