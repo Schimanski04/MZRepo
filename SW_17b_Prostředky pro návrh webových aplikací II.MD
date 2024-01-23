@@ -1,4 +1,4 @@
-# SW 24 – Prostředky pro návrh webových aplikací II
+# SW 17b – Prostředky pro návrh webových aplikací II
 
 ## Písmo
 
